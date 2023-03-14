@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=examv1)
+![](https://komarev.com/ghpvc/?username=examv1&color=red)
 ### Hi there 👋
 I'm ExamV1, Welcome to my GitHub profile!
 
@@ -12,7 +12,7 @@ I'm ExamV1, Welcome to my GitHub profile!
 - Replit: https://replit.com/@ExamV1
 - Pastebin: https://pastebin.com/u/ExamV1
 
-
+<img src="https://discord.c99.nl/widget/theme-3/339434466026192897.png"></img>
 
 
 ### Disclaimer
