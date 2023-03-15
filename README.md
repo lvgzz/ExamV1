@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=examv1&color=red)
+[![Hits](http://hits.dwyl.com/ExamV1/ExamV1.svg)](http://hits.dwyl.com/ExamV1/ExamV1)
+
 ### Hi there 👋
 I'm ExamV1, Welcome to my GitHub profile!
 
