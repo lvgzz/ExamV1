@@ -1,19 +1,17 @@
-[![Hits](http://hits.dwyl.com/ExamV1/ExamV1.svg)](http://hits.dwyl.com/ExamV1/ExamV1)
+
 
 ### Hi there 👋
-I'm ExamV1, Welcome to my GitHub profile!
+I'm lv, Welcome to my GitHub profile!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=examv1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvgzz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=examv1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvgzz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Socials
 
-- Discord: Exam#1064
-- Replit: https://replit.com/@ExamV1
-- Pastebin: https://pastebin.com/u/ExamV1
+- Discord: gvzh
 
-<img src="https://discord.c99.nl/widget/theme-3/339434466026192897.png"></img>
+<img src="https://discord.c99.nl/widget/theme-3/1058376745708957706.png"></img>
 
 
 ### Disclaimer
